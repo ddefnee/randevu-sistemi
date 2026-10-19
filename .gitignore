@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# Angular
+randevu-ui/node_modules/
+randevu-ui/dist/
+randevu-ui/.angular/
+
+# OS
+Thumbs.db
+.DS_Store

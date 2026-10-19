@@ -1,0 +1,6 @@
+@Randevu_Sistemi_HostAddress = http://localhost:5230
+
+GET {{Randevu_Sistemi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
